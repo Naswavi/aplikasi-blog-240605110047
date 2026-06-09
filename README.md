@@ -64,5 +64,5 @@ Aplikasi dibangun menggunakan Framework Laravel dan database MySQL sesuai ketent
 
 ## Video Demonstrasi
 
-Link YouTube:
+Link YouTube: https://youtu.be/DOEPM-SznEo 
 
